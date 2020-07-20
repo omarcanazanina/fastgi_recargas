@@ -1,0 +1,7 @@
+{
+  "name": "fastgi-recargas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
